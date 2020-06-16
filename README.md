@@ -1,2 +1,2 @@
 # TrabalhoES2
-Código na pasta compactada, especifícações descritas na main.dart em formato de comentários.
+Código na pasta X9Quarentena, especifícações descritas na main.dart em formato de comentários.
